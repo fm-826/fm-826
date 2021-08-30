@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Myles
+### 👋 Hi
 
 <!--
 **fm-826/fm-826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
